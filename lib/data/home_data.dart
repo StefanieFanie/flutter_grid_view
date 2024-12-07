@@ -8,7 +8,7 @@ var homeList = [
         'The Floating Market in Bandung is a vibrant marketplace located on a serene lake, offering visitors a unique shopping and dining experience. Stalls on boats sell fresh produce, local snacks, and handcrafted goods. Visitors can also enjoy traditional dishes while taking in the beautiful surroundings. The market provides cultural performances and recreational activities, making it a lively destination for families and tourists alike.',
     built: '1995',
     type: 'Market',
-    imageAsset: 'assets/floating_market.jpg',
+    imageAsset: 'images/floating_market.jpg',
     imageUrls: [
       'https://images.pexels.com/photos/417184/pexels-photo-417184.jpeg',
       'https://images.pexels.com/photos/417185/pexels-photo-417185.jpeg',
@@ -23,7 +23,7 @@ var homeList = [
         'The Modern Art Museum in Jakarta is a haven for art lovers, featuring a diverse range of contemporary art exhibits from local and international artists. The museum’s sleek architecture and thoughtfully curated galleries make it a cultural hotspot. Visitors can enjoy interactive exhibits, attend workshops, and explore an art store with unique souvenirs. It’s a perfect destination for anyone looking to immerse themselves in the vibrant art scene of Jakarta.',
     built: '2000',
     type: 'Museum',
-    imageAsset: 'assets/modern_art.jpg',
+    imageAsset: 'images/modern_art.jpg',
     imageUrls: [
       'https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg',
       'https://images.pexels.com/photos/417174/pexels-photo-417174.jpeg',
@@ -38,7 +38,7 @@ var homeList = [
         'The Grand Theater in Semarang is a prestigious venue that hosts world-class performances, including opera, ballet, and live concerts. Known for its elegant design and state-of-the-art facilities, the theater offers an immersive cultural experience for visitors. The venue also conducts workshops and art exhibitions, making it a cultural hub for the community. Its prime location and exceptional programming make it a must-visit for art enthusiasts.',
     built: '2008',
     type: 'Theater',
-    imageAsset: 'assets/grand_theater.jpg',
+    imageAsset: 'images/grand_theater.jpg',
     imageUrls: [
       'https://images.pexels.com/photos/456512/pexels-photo-456512.jpeg',
       'https://images.pexels.com/photos/456513/pexels-photo-456513.jpeg',
