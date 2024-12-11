@@ -122,21 +122,6 @@ var homeList = [
     ],
   ),
   Home(
-    name: 'Grand Theater',
-    location: 'Semarang, Indonesia',
-    description:
-        'The Grand Theater in Semarang is a prestigious venue that hosts world-class performances, including opera, ballet, and live concerts. Known for its elegant design and state-of-the-art facilities, the theater offers an immersive cultural experience for visitors. The venue also conducts workshops and art exhibitions, making it a cultural hub for the community. Its prime location and exceptional programming make it a must-visit for art enthusiasts.',
-    built: '2008',
-    type: 'Theater',
-    imageAsset: 'images/grand_theater.jpg',
-    imageUrls: [
-      'https://images.pexels.com/photos/456512/pexels-photo-456512.jpeg',
-      'https://images.pexels.com/photos/456513/pexels-photo-456513.jpeg',
-      'https://images.pexels.com/photos/456514/pexels-photo-456514.jpeg',
-      'https://images.pexels.com/photos/456515/pexels-photo-456515.jpeg',
-    ],
-  ),
-  Home(
     name: 'Ocean Breeze Cafe',
     location: 'Bali, Indonesia',
     description:
